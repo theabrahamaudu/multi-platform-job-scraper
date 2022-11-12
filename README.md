@@ -1,12 +1,13 @@
 # multi-platform-job-scraper
 
-This app, when completed, will be able to concurrently scrape job listings from multiple job search platforms and then save the 
-responses to a s=csv file for later reference. 
+This app, when completed, will be able to concurrently scrape Nigerian job listings from multiple job search platforms and then save the 
+responses to a csv file for later reference.
 
-It is a subset of a bigger project -- a job recommeder platform.
+The scrapers are built majorly with Selenuim and a little bit of Beautiful Soup.
+
+This project is a subset of a bigger project -- a job recommeder platform.
 
 Current websites covered are:
-
 - LinkedIn
 - Indeed
 - Glassdoor 
